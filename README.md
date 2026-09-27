@@ -37,7 +37,7 @@
 3. Intro to XAMPP (more details in the next lab class)
 
 <!-- callout -->
-> [!note] Homework
+> [!NOTE] Homework
 > Week 2 HTML slides in the following link
 
 ---
