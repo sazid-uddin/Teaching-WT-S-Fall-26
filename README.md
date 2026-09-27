@@ -37,8 +37,8 @@
 3. Intro to XAMPP (more details in the next lab class)
 
 <!-- callout -->
-> [!NOTE] Homework
-> Week 2 HTML slides in the following link
+> [!NOTE] 
+> Homework: Week 2 HTML slides in the following link
 
 ---
 Course Slides and Materials: https://aiubedu60714-my.sharepoint.com/:f:/g/personal/sazid_uddin_aiub_edu/IgAD__7AHPHKQLqmqKLzBvQOAbgGr3iAqq0WdCDUUc8c8Mo?e=4phuy2
