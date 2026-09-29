@@ -1,6 +1,3 @@
----
-updated: 2026-09-29T09:13:10+06:00
----
 ### Lab 1 - Sep 29
 #### Setup:
 1. Open XAMPP Control Panel and start the Apache server.
