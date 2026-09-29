@@ -20,6 +20,10 @@
 2. CSS
 3. JavaScript
 
+#### Class Registry
+- [Theory 1 - Sep 27](Theory1/Theory1.md)
+- [Lab 1 - Sep 29](Lab1/Lab%201.md)
+
 
 ---
 Course Slides and Materials: https://aiubedu60714-my.sharepoint.com/:f:/g/personal/sazid_uddin_aiub_edu/IgAD__7AHPHKQLqmqKLzBvQOAbgGr3iAqq0WdCDUUc8c8Mo?e=4phuy2
