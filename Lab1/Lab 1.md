@@ -21,7 +21,7 @@
 		```
 3. HTML Table
 	- Use the `<table>`tag to create a table
-	- HTML Tables are created row by row. The first row usually is the header row (containing column names)
+	- HTML Tables are created row by row. The first row is usually the header row (containing column names)
 	- Use `<tr>` tag to create a row
 		- Inside the `<tr>` tag use `<td>` to create data cells and `<th>` to create header cells
 	- Styling a table to add borders and gaps between cells
@@ -39,3 +39,18 @@
 			padding: 10px;
 		}
 		```
+4. HTML Forms
+	- Used to create forms where users submit their data to the website
+	- i.e. Account creation form (see [Lab 1's example form.html](form.html))
+		- May contain input fields for username, password, email, gender, age etc.
+		- Each type of input field is created using the `<input>` tag with different `type` attributes (e.g., `text`, `password`, `email`, `number`, `radio`, `checkbox`, etc.)
+		- All forms should have a submit button, which is created using the `<input>` tag with `type="submit"` (and optionally a `value` attribute to specify the text on the button). When the user clicks this button, the form data is sent to the server for processing (this will be coverered in the final term).
+		- **Form Validation**
+			- All user input should be validated to ensure that the data is in the correct format and meets the required criteria before it is submitted. This can be done using HTML5 attributes (e.g., `required`, `pattern`, `min`, `max`, etc.) or JavaScript for more complex validation. <small>*This is arguably the most important aspect of form design and of this course.*</small>
+
+> [!NOTE]
+> Homework: Please study the different types of input fields and their attributes, **especially the validation attributes**. You will be asked to create a form with various input fields in an upcoming lab task.
+> Use w3schools.com as a reference for this. Here are the links: 
+> - [HTML Forms](https://www.w3schools.com/html/html_forms.asp)
+> - [HTML Input Types (for different types of fields)](https://www.w3schools.com/html/html_form_input_types.asp)
+> - [HTML Input Attributes (for validation)](https://www.w3schools.com/html/html_form_attributes.asp)

@@ -4,7 +4,7 @@
 	- Elements: 
 		- `<html>`: The root element of an HTML page
 		- `<head>`: Contains meta-information about the document
-		- `<title>`: Sets the title of the document (shown in browser's title
+		- `<title>`: Sets the title of the document (shown in browser's title)
 		- `<body>`: Contains the content of the document
 		- `<h1>` to `<h6>`: Heading elements, where `<h1>` is the highest level and `<h6>` is the lowest
 		- `<p>`: Paragraph element
