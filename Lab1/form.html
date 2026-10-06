@@ -1,0 +1,57 @@
+<!doctype html>
+<html>
+    <head>
+        <title>HTML Form</title>
+    </head>
+    <body>
+        <h3>Account Creation Form</h3>
+        <form action="form-handler.html" method="post">
+            <fieldset>
+				<legend>Names</legend>
+                <label for="first-name">First Name:</label>
+                <input type="text" class="name-field" id="first-name" name="fn" placeholder="Enter your first name" minlength="3" required />
+                <br />
+                <label for="last-name">Last Name:</label>
+                <input type="text" class="name-field" id="last-name" name="ln" placeholder="Enter your last name" minlength="3" required />
+            </fieldset>
+            <br />
+            <label for="age">Age:</label>
+            <input type="number" id="age" name="age" min="18" max="100" required />
+            <br />
+            <label for="gender">Gender:</label>
+            <br />
+            <input type="radio" name="gender" id="male" /> Male
+            <br />
+            <input type="radio" name="gender" id="female" /> Female
+            <br />
+            <input type="radio" name="gender" id="other" /> Other
+            <br />
+            <select>
+                <option value="">Select your gender</option>
+                <option value="male">Male</option>
+                <option value="female">Female</option>
+                <option value="other">Other</option>
+            </select>
+            <br />
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="em" placeholder="Enter your email" required />
+            <br />
+            <label for="password">Password:</label>
+            <input type="password" id="password" name="ps" placeholder="Enter your password" required />
+            <br />
+            <label for="confirm_password">Confirm password:</label>
+            <input type="password" id="confirm_password" name="cps" placeholder="Enter confirm your password" required />
+            <br />
+            <input type="checkbox" /> Agree to <a href="terms.html">Terms & Conditions</a>
+            <input type="range" />
+            <br />
+            <textarea name="" id=""></textarea>
+            <br />
+            <button>Click Me!</button>
+            <br />
+            <br />
+            <input type="submit" value="Create Your Account" />
+            <input type="reset" />
+        </form>
+    </body>
+</html>

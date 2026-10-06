@@ -1,0 +1,49 @@
+h1 {
+	color: red;
+	border: 1px solid black;
+}
+
+p {
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	/* font-size: x-small; */
+	font-size: 12px;
+	font-weight: bold;
+	font-style: italic;
+	background-color: yellow;
+}
+
+span {
+	border: 2px dashed blue;
+}
+/* 
+body {
+	background-color: lightblue;
+} */
+
+h1 {
+	margin: 10px;
+	margin-top: 10px 20px;
+	/* top-bottom -> left-right */
+	margin: 10px 20px 25px 30px; 
+	/* top->right->bottom->left */
+	/* same for padding */
+}
+
+* {
+	text-align: center;
+}
+
+#span1 {
+	font-family: 'Courier New', Courier, monospace;
+}
+/* 
+.my-span {
+	box-shadow: inset 0 0 10px #000000;
+} */
+
+/* 
+CSS Syntax
+selector {
+	property: value;
+	property: value;
+} */

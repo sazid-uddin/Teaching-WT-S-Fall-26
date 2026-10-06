@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<library>
+	<name>ABC Library</name>
+	<booklist last_updated='Oct 4'>
+		<last_update>Oct 4</last_update>
+		<book>
+			<title>Harry Potter</title>
+			<year>1998</year>
+			<author>JK Rowling</author>
+		</book>
+		<book>
+			<title>Lord of the Rings</title>
+			<year>1960</year>
+			<author>Unknown</author>
+			<genre>Fantasy</genre>
+		</book>
+	</booklist>
+</library>
