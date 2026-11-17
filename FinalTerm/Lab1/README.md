@@ -5,7 +5,8 @@
 #### Topics Covered
 
 - PHP Introduction
-    - What is PHP?
+    - What is PHP?    
+    - How PHP code is executed on the server and how the output is sent to the client browser
     - PHP Syntax
         - PHP Code Block
         - PHP Comments
