@@ -20,18 +20,20 @@
 2. CSS
 3. JavaScript
 
-#### Class Registry
-- [Theory 1 - Sep 27](Theory1/README.md)
-- [Lab 1 - Sep 29](Lab1/README.md)
-- [Theory 2 - Oct 4](Theory2/README.md)
-- [Lab 2 - Oct 6](Lab2/README.md)
-- [Theory 3 - Oct 11](Theory3/README.md)
-- [Lab 3 - Oct 13](Lab3/README.md)
-- [Theory 4 - Oct 18](Theory4/README.md)
+#### Class Registry - Midterm
+- [Theory 1 - Sep 27](Midterm/Theory1/README.md)
+- [Lab 1 - Sep 29](Midterm/Lab1/README.md)
+- [Theory 2 - Oct 4](Midterm/Theory2/README.md)
+- [Lab 2 - Oct 6](Midterm/Lab2/README.md)
+- [Theory 3 - Oct 11](Midterm/Theory3/README.md)
+- [Lab 3 - Oct 13](Midterm/Lab3/README.md)
+- [Theory 4 - Oct 18](Midterm/Theory4/README.md)
 - Lab 4 - Oct 20 (Holiday due to Durga Puja)
 - Theory 5 - Oct 25 (Makeup scheduled for Thu 29th Oct)
-- [Lab 5 - Oct 27](Lab5/README.md)
+- [Lab 5 - Oct 27](Midterm/Lab5/README.md)
 
+#### Class Registry - Final Term
+- [Lab 1 - Nov 17](FinalTerm/Lab1/README.md)
 
 ---
 Course Slides and Materials: Check the link in the notice on AIUB Portal
