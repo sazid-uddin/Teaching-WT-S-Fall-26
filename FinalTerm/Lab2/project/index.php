@@ -1,0 +1,1 @@
+entry point (how to implement: next class)
