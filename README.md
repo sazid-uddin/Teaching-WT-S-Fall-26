@@ -34,6 +34,8 @@
 
 #### Class Registry - Final Term
 - [Lab 1 - Nov 17](FinalTerm/Lab1/README.md)
+- [Theory 1 - Nov 22](FinalTerm/Theory1/README.md)
+- [Lab 2 - Nov 24](FinalTerm/Lab2/README.md)
 
 ---
 Course Slides and Materials: Check the link in the notice on AIUB Portal
